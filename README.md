@@ -24,6 +24,7 @@ Ensure you have Python 3.x installed. Then, install the required dependencies:
 _pip install opencv-python_
 
 2️⃣**Clone the Repository**
+_https://github.com/Suraj2048/Steganography.git_
 
 3️⃣**Run the Script**
 _python Stego.py_
@@ -45,5 +46,3 @@ _python Stego.py_
 ✨ Password-protected decryption ensures only authorized users can access the message.
 ✨ Lightweight and runs entirely offline, requiring no external servers.
 ✨ Works with any standard image viewer, as it does not visually alter the image.
-
-🔗 GitHub Repository
